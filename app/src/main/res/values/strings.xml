@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaOnApp</string>
+    <string name="play">Play</string>
+    <string name="subtitle">playlist x</string>
+    <string name="textview">Playing now</string>
+    <string name="timeStart">0:00</string>
+</resources>
